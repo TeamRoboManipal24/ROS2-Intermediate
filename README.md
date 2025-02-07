@@ -2,8 +2,8 @@
 # https://docs.ros.org/en/humble/Tutorials.html
 ### Complete the tutorials of Launch, tf2, URDF and Rviz. 
 The URDF section includes Gazebo as well so make sure to install Gazebo classic latest version is 11+
-- Read through all the topics by **7/2/2025**
-- Implement the codes provided under each section by making a workspace and different packages for each respectively by **15/2/2025**
+- Read through all the topics by **9/2/2025**
+- Implement the codes provided under each section by making a workspace and different packages for each respectively by **13/2/2025**
 
 Follow this format in the workspace(ex: ros_ws):
 - build
